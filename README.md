@@ -1,0 +1,4 @@
+# CSWA_2019_Survey_Results
+Recommended Actions for the American Astronomical Society :  CSWA’s Perspective on Steps for a more Inclusive Astronomy - Background and Methods
+nicollezellner/CSWA_2019_Survey_Results
+10.5281/zenodo.7093993
